@@ -31,5 +31,6 @@ Modern JavaScript (ES6+): For handling logic and interactivity.
 Vite: For a fast development environment and optimized builds.
 
 Screenshots:
+![image](https://github.com/user-attachments/assets/9779f60e-7d5a-48ac-82b5-6cc8086216c4)
 
 ![image](https://github.com/user-attachments/assets/647ff078-1a86-4010-ae45-668a3722a556)
